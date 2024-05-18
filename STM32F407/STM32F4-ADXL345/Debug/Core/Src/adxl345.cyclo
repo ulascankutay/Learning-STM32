@@ -1,0 +1,3 @@
+../Core/Src/adxl345.c:14:5:ADXL345_ScanDeviceId	3
+../Core/Src/adxl345.c:23:19:ADXL345_ReadRegisterData	2
+../Core/Src/adxl345.c:33:20:ADXL345_Init	2
